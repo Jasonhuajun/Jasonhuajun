@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on computer science
 - 📫 How to reach me theeastwind7@gmail.com
+-    I had fried eggs and bacon this morning.
+
 
 <!---
 Jasonhuajun/Jasonhuajun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
