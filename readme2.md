@@ -1,0 +1,3 @@
+- Crouse title:        **MATH**              **CSE**          **INFO**
+- Crouse number:        _124_              _142_           _201_
+- instructor name: Natalie Naehrig   Brett Wortzman  Kyle Thayer
