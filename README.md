@@ -2,8 +2,7 @@
 - 👀 I’m interested in math and computer
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on computer science
-- 📫 How to reach me theeastwind7@gmail.com
--    I had fried eggs and bacon this morning.
+- 📫 How to reach me hyu0@uw.edu
 
 
 <!---
